@@ -1,24 +1,13 @@
-# README
+# Webbit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Modeling
 
-Things you may want to cover:
+Each Model will be responsible for different data thoughout the app
 
-* Ruby version
+- User - focused on the user
+- Submission - The user authors. Has different types (image/video, text, link)
+- Community - The category the submission belongs to.
+- Comment - a response given to the submission from another user or the current user.
+- Subcription - not to be confused with billing of any type. A user can subscribe and unsuscribe to a community
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
