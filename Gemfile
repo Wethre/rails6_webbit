@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # custom gems
+gem 'carrierwave', '~> 2.1'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
 group :development, :test do
